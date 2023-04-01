@@ -39,7 +39,6 @@ function App() {
           <Billing />
           <CardDeal />
           <Testimonials />
-          <Stats />
           <Footer />
           <Cta />
         </div>
