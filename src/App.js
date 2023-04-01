@@ -8,7 +8,6 @@ import Clients from './components/Clients'
 import Cta from './components/Cta'
 import FeedbackCard from './components/FeedbackCard'
 import Footer from './components/Footer'
-import GetStarted from './components/GetStarted'
 import Stats from './components/Stats'
 import Testimonials from './components/Testimonials'
 
@@ -36,6 +35,7 @@ function App() {
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
           <Stats />
+          <Business />
           <Billing />
           <CardDeal />
           <Testimonials />
