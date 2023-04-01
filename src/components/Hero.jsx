@@ -1,5 +1,6 @@
 import styles from '../styles'
 import { robot, discount } from '../assets'
+import GetStarted from './GetStarted'
 
 const Hero = () => (
   <section id="home" className={`${styles.paddingY} flex-container md:flex-row flex-col`}>
@@ -17,6 +18,10 @@ const Hero = () => (
           <span className="text-gradient">Generation </span>
           <br className="sm:block hidden" /> Payment Method
         </h1>
+
+        <div className="ss:flex hidden md:mr-4 m4-0">
+          <GetStarted />
+        </div>
       </div>
     </div>
   </section>
