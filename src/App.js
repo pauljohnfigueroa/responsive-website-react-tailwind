@@ -2,7 +2,7 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Billing from './components/Billing'
 import Business from './components/Business'
-import Button from './components/Button'
+
 import CardDeal from './components/CardDeal'
 import Clients from './components/Clients'
 import Cta from './components/Cta'
