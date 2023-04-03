@@ -14,7 +14,7 @@ import styles from './styles'
 
 function App() {
   return (
-    <div>
+    <div className="overflow-hidden">
       <div className="bg-primary w-full overflow-hidden">
         <div className={`${styles.paddingX} ${styles.flexCenter}`}>
           <didv className={`${styles.boxWidth}`}>
