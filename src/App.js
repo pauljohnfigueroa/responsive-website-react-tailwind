@@ -39,8 +39,8 @@ function App() {
           <CardDeal />
           <Testimonials />
           <Clients />
-          <Footer />
           <Cta />
+          <Footer />
         </div>
       </div>
 

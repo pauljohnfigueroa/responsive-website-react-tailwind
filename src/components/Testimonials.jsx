@@ -1,5 +1,5 @@
 import { feedback } from '../constants'
-import styles, { layout } from '../styles'
+import styles from '../styles'
 import FeedbackCard from './FeedbackCard'
 
 const Testimonials = () => (

@@ -1,4 +1,3 @@
-import styles, { layout } from '../styles'
 import { quotes } from '../assets'
 
 const FeedbackCard = ({ content, name, title, img }) => (
