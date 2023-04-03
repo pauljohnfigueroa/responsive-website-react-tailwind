@@ -6,7 +6,6 @@ import Business from './components/Business'
 import CardDeal from './components/CardDeal'
 import Clients from './components/Clients'
 import Cta from './components/Cta'
-import FeedbackCard from './components/FeedbackCard'
 import Footer from './components/Footer'
 import Stats from './components/Stats'
 import Testimonials from './components/Testimonials'
@@ -39,6 +38,7 @@ function App() {
           <Billing />
           <CardDeal />
           <Testimonials />
+          <Clients />
           <Footer />
           <Cta />
         </div>
